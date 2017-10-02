@@ -13,7 +13,3 @@ def pirates_say_arrrrrrrrr(string)
   end
   answer
 end
-
-pirates_say_arrrrrrrrr("are you really learning Ruby?")
-pirates_say_arrrrrrrrr("Katy Perry is on the radio!")
-pirates_say_arrrrrrrrr("Pirates say arrrrrrrrr")
