@@ -9,9 +9,7 @@
 
 def word_count(string)
   counter = Hash.new { 0}
-
 words_array = string.split
-
 words_array.each do |word|
   counter[word.downcase] +=1
 end
